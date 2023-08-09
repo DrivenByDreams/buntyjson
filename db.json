@@ -1,9 +1,12 @@
-[
-  {
-    "postId": 1,
-    "customerID": 10,
-    "fuel": "0123456789",
-    "carbon": "9876543210",
-    "message": "Happy_Diwali"
-  }
-]
+
+{
+   "posts": [
+              {
+                "postId": 1,
+                "customerID": 10,
+                "fuel": "0123456789",
+                "carbon": "9876543210",
+                "message": "Happy_Diwali"
+              }
+            ]
+}
