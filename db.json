@@ -4,8 +4,8 @@
               {
                 "postId": 1,
                 "customerID": 10,
-                "fuel": "__Prachi__",
-                "carbon": "__Akash__",
+                "fuel": "9876543210",
+                "carbon": "1234567890",
                 "message": "Happy_Diwali"
               }
             ]
