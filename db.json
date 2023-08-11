@@ -1,5 +1,3 @@
-
-
 {
    "posts": [
               {
@@ -7,7 +5,11 @@
                 "customerID": 10,
                 "fuel": "7776543210",
                 "carbon": "1234567877",
-                "message": "Happy_Diwali"
+                "msgenable": "1",
+                "messageone": "...HAPPY...",
+                "messagetwo": "...DIWALI...",
+                "messagethree": "HappyDiwali",
+                "messagefour": "1234567890"
               }
             ]
 }
