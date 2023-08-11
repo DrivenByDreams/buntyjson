@@ -5,11 +5,11 @@
                 "customerID": 10,
                 "fuel": "7776543210",
                 "carbon": "1234567877",
-                "msgenable": "1",
-                "messageone": "----------",
-                "messagetwo": "...HAPPY...",
-                "messagethree": "..DIWALI..",
-                "messagefour": "----------"
+                "msgenable": "0",
+                "messageone"  : "----------",
+                "messagetwo"  : "   HAPPY   ",
+                "messagethree": "  DIWALI  ",
+                "messagefour" : "----------"
               }
             ]
 }
